@@ -13,6 +13,7 @@ ENV GID=991 \
     DB_HOST=srv-captain--flarum-db \
     DB_USER=flarumuser \
     DB_NAME=flarum \
+    DB_PASS=b_zKY*7G6AT*WTAfnJ2e
     DB_PORT=3306 \
     FLARUM_TITLE=Docker-Flarum \
     DEBUG=false \
